@@ -11,18 +11,18 @@ vecion ="1.0.0">
 Aplicacion que muestra los datos del dispocitivo
 </description>
 
-<author href="htto://build.phonegap.com" email="WENDOLYNPEDRAZACBTIS16@gmail.com">
+<author href="htto://build.phonegap.com" email="wendybm698@gmail.com">
 Wendolyn Pedraza Catarino
 </author>
 
 <!--Personaliza la aplicacion y la plataforma -->
 <preference name="orientation"  value="default"/>
 <!--<Preference name="orientation"   value="portrait"/>
-<preference name="orirntation"    value="landscape"/>-->
+<preference name="orientation"    value="landscape"/>-->
 <preference name="target-device"   value="universal"/>
 <preference name="fullscreen"     value="true" />
 <preference name="android-installLocation"  value="auto" />
-<preference name="permission"  value="INTERNET" />
+<preference name="permissions"  value="INTERNET" />
 
 <!--Plugins-->
 <!--Core plugins-->
